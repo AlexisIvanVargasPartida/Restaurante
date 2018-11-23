@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "698929643337",
+    "firebase_url": "https://tpdmu3p1-3d367.firebaseio.com",
+    "project_id": "tpdmu3p1-3d367",
+    "storage_bucket": "tpdmu3p1-3d367.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698929643337:android:99ff565e44d2a64c",
+        "android_client_info": {
+          "package_name": "com.example.alex.tpdm_u3_practica1_alexisvargas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698929643337-7enthaoctrpn3r7o9ff4v40nlecer1eb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.alex.tpdm_u3_practica1_alexisvargas",
+            "certificate_hash": "ad240195d696ac4780290b77dff4fa6f3605ce84"
+          }
+        },
+        {
+          "client_id": "698929643337-immit8o7qeqnrmg4hjcg1ivkendr8e2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-dx6II9vZQMnjjEyHL7Hkw-Iy4TuwERI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698929643337-immit8o7qeqnrmg4hjcg1ivkendr8e2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698929643337:android:da37986c9e95b3ee",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.tpdm_u3_practica1_alexisvargas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698929643337-o9i3tvvs1ifpf2mea2lknatv2kigg9e9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mx.edu.ittepic.tpdm_u3_practica1_alexisvargas",
+            "certificate_hash": "a9c1008007801fd370ea8778e000a3411d6a7af9"
+          }
+        },
+        {
+          "client_id": "698929643337-immit8o7qeqnrmg4hjcg1ivkendr8e2i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-dx6II9vZQMnjjEyHL7Hkw-Iy4TuwERI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698929643337-immit8o7qeqnrmg4hjcg1ivkendr8e2i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
